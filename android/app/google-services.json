@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265835565714",
+    "project_id": "uauth-8f942",
+    "storage_bucket": "uauth-8f942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265835565714:android:3974e49adfcd688f66cc4b",
+        "android_client_info": {
+          "package_name": "com.uauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFACDy9c5z_77jEzx8uchHvMbHIjJaUik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
